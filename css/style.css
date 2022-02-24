@@ -1,0 +1,35 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  background: #f5aa31;
+}
+
+.head {
+  height: 450px;
+  background: #f5aa31 url('https://cutt.ly/MPGEaki') no-repeat
+  center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.body {
+  height: 2000px;
+}
+
+.footer {
+  height: 200px;
+  background-color: #262626;
+  background-position: bottom;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.footer p {
+  display: flex;
+  justify-content: right;
+  color: white;
+}
